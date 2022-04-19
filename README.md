@@ -20,7 +20,8 @@ You may find here all the scripts and commands used to run comparative genomic a
  ## 03.RNA-mapping
 
  ## 04.TE-annotation
- + This step is described [here](steps/README.TEannotation.md)
+ + This step is described [here](steps/README.TEannotation.md).
+ 
  ## 05.Annotation
 
  ## 06.Citations

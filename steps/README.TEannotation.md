@@ -1,23 +1,5 @@
- # Cactoblastis genome sequencing project
- Genome sequencing project of species of the Cactoblastis genus
-
- ## Index
- + 00.RawData
- + 01.QC
- + 02.Assembly
- + 03.RNA-mapping
- + 04.TE-annotation
- + 05.Annotation
- + 06.Citations
-
- ## 00.RawData
-
- ## 01.QC
-
- ## 02.Assembly
-
- ## 03.RNA-mapping
-
+ # *de novo* Transposable Element (TE) annotation
+ 
  ## 04.TE-annotation
  Transposable Elements (TEs) annotation was performed following the pipeline described in [Bell et al. (2021)](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13489). We applied this approach with four genomes of cactophilic *Drosophila* species of the *buzzatii* cluster (*repleta* group) that we recently sequenced and reported in [Moreyra et al. (2022)]().
  We describe here each stage of TE annotation, most of which were adapted from [FasTE](https://github.com/ellenbell/FasTE).
