@@ -1,8 +1,7 @@
-# Drophila buzzatii cluster - Genome sequencing and comparative genomics
-This repository has been created to allocate the four genomic data generated for three newly sequenced species of the Drosophila buzzatii cluster (repleta group).
-You may find here all the scripts and commands used to run comparative genomic analyses, of which results are published.
+ # Cactoblastis genome sequencing project
+ Genome sequencing project of species of the Cactoblastis genus
 
-## Index
+ ## Index
  + 00.RawData
  + 01.QC
  + 02.Assembly
@@ -126,3 +125,4 @@ You may find here all the scripts and commands used to run comparative genomic a
  + Yan, Haidong, Aureliano Bombarely, and Song Li. "DeepTE: a computational method for de novo classification of transposons with convolutional neural network." Bioinformatics 36, no. 15 (2020): 4269-4275.
 
  
+
