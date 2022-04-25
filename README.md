@@ -7,22 +7,9 @@ You may find here all the scripts and commands used to run comparative genomic a
  + 01.QC
  + 02.Assembly
  + 03.RNA-mapping
- + 04.TE-annotation
+ + [04.TE-annotation](04.README.TEannotation.md)
  + 05.Annotation
  + 06.Citations
-
- ## 00.RawData
-
- ## 01.QC
-
- ## 02.Assembly
-
- ## 03.RNA-mapping
-
- ## 04.TE-annotation
- + This step is described [here](steps/README.TEannotation.md).
- 
- ## 05.Annotation
 
  ## 06.Citations
  + Bell, Ellen A., Christopher L. Butler, Claudio Oliveira, Sarah Marburger, Levi Yant, and Martin I. Taylor. "Transposable element annotation in non‐model species: The benefits of species‐specific repeat libraries using semi‐automated EDTA and DeepTE de novo pipelines." Molecular Ecology Resources 22, no. 2 (2022): 823-833.
