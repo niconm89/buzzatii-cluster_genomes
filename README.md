@@ -3,12 +3,12 @@ This repository has been created to allocate the four genomic data generated for
 You may find here all the scripts and commands used to run comparative genomic analyses, of which results are published.
 
 ## Index
- + 00.RawData
- + 01.QC
- + 02.Assembly
- + 03.RNA-mapping
- + [04.TE-annotation](04.README.TEannotation.md)
- + 05.Annotation
+ + [00.RawData](steps/00.README.RawData.md)
+ + [01.QC](steps/01.README.QC.md)
+ + [02.Assembly](steps/02.README.Assembly.md)
+ + [03.RNA-mapping](steps/03.README.RNA-mapping.md)
+ + [04.TE-annotation](steps/04.README.TEannotation.md)
+ + [05.Annotation](steps/05.README.Annotation.md)
  + 06.Citations
 
  ## 06.Citations
