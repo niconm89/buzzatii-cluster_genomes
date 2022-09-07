@@ -7,9 +7,8 @@ You may find here all the scripts and commands used to run comparative genomic a
  + [01.Quality Control](steps/01.README.QC.md)
  + [02.Genome Assembly](steps/02.README.Assembly.md)
  + [03.Genome Annotation](steps/03.README.Annotation.md)
- + [04.TE-annotation](steps/04.README.TEannotation.md)
- + [05.Annotation](steps/05.README.Annotation.md)
-
+ + [04.Phylogenomic analyses](steps/04.README.Phylogenomics.md)
+ + [05.Ortholog gene evolution](steps/05.README.Orthologs.md)
 
 
  
