@@ -1,6 +1,6 @@
-# *Drophila buzzatii* cluster - Genome sequencing and comparative genomics
-This repository has been created to allocate the four genomic data generated for three newly sequenced species of the Drosophila buzzatii cluster (repleta group).
-You may find here all the scripts and commands used to run comparative genomic analyses, of which results are published.
+# *Drosophila buzzatii* cluster genome project
+This repository has been created to allocate the four genomic data generated for three newly sequenced species of the *Drosophila buzzatii* cluster (*repleta* group).
+You may find here all the scripts and commands used to for genome assembly, annotation and phylogenomic analyses.
 
 ## Index
  + [00.Raw Data](steps/00.README.RawData.md)
@@ -11,4 +11,4 @@ You may find here all the scripts and commands used to run comparative genomic a
  + [05.Ortholog gene evolution](steps/05.README.Orthologs.md)
 
 
- 
+ +
