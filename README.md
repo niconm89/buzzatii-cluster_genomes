@@ -10,5 +10,3 @@ You may find here all the scripts and commands used to for genome assembly, anno
  + [04.Phylogenomic analyses](steps/04.README.Phylogenomics.md)
  + [05.Ortholog gene evolution](steps/05.README.Orthologs.md)
 
-
- +
