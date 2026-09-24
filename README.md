@@ -1,6 +1,10 @@
+cd ~/Documents/Repositorios/buzzatii-cluster_genomes
+cat > README.md <<'EOF'
 # *Drosophila buzzatii* cluster genome project
 This repository has been created to allocate the four genomic data generated for three newly sequenced species of the *Drosophila buzzatii* cluster (*repleta* group).
-You may find here all the scripts and commands used to for genome assembly, annotation and phylogenomic analyses.
+You may find here all the scripts and commands used for genome assembly, annotation and phylogenomic analyses.
+
+> **📊 Results:** tables, trees, divergence times, taxonomically restricted genes (TRGs), functional analyses and figures from Moreyra et al. (2023) are available in **[results](results/README.md)** and **[figures](figures/)**.
 
 ## Index
  + [00.Raw Data](steps/00.README.RawData.md)
@@ -10,4 +14,6 @@ You may find here all the scripts and commands used to for genome assembly, anno
  + [04.Phylogenomic analyses](steps/04.README.Phylogenomics.md)
  + [05.Ortholog gene evolution](steps/05.README.Orthologs.md)
 
-
+## Citation
+Moreyra, N. N., Almeida, F. C., Allan, C., Frankel, N., Matzkin, L. M., & Hasson, E. (2023). Phylogenomics provides insights into the evolution of cactophily and host plant shifts in *Drosophila*. *Molecular Phylogenetics and Evolution*, 178, 107653. https://doi.org/10.1016/j.ympev.2022.107653
+EOF
