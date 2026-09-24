@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # *Drosophila buzzatii* cluster genome project
 This repository has been created to allocate the four genomic data generated for three newly sequenced species of the *Drosophila buzzatii* cluster (*repleta* group).
 You may find here all the scripts and commands used for genome assembly, annotation and phylogenomic analyses.
