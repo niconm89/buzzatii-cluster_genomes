@@ -1,0 +1,78 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0005488	0.00028763651981542	1	1	1	binding	MF	0.0655557468249909	MF binding	group14066
+GO:0005623	0.00028763651981542	1	1	1	NA	NA	0.0655557468249909	none	group14066
+GO:0006793	0.00028763651981542	1	1	1	phosphorus metabolic process	BP	0.0655557468249909	BP phosphorus metabolic process	group14066
+GO:0006810	0.00028763651981542	1	1	1	transport	BP	0.0655557468249909	BP transport	group14066
+GO:0008152	0.00028763651981542	1	1	1	metabolic process	BP	0.0655557468249909	BP metabolic process	group14066
+GO:0015833	0.00028763651981542	1	1	1	peptide transport	BP	0.0655557468249909	BP peptide transport	group14066
+GO:0031300	0.00028763651981542	1	1	1	intrinsic component of organelle membrane	CC	0.0655557468249909	CC intrinsic component of organelle membrane	group14066
+GO:0031984	0.00028763651981542	1	1	1	organelle subcompartment	CC	0.0655557468249909	CC organelle subcompartment	group14066
+GO:0033036	0.00028763651981542	1	1	1	macromolecule localization	BP	0.0655557468249909	BP macromolecule localization	group14066
+GO:0042175	0.00028763651981542	1	1	1	nuclear outer membrane-endoplasmic reticulum membrane network	CC	0.0655557468249909	CC nuclear outer membrane-endoplasmic reticulum membrane network	group14066
+GO:0042886	0.00028763651981542	1	1	1	amide transport	BP	0.0655557468249909	BP amide transport	group14066
+GO:0043226	0.00028763651981542	1	1	1	organelle	CC	0.0655557468249909	CC organelle	group14066
+GO:0043227	0.00028763651981542	1	1	1	membrane-bounded organelle	CC	0.0655557468249909	CC membrane-bounded organelle	group14066
+GO:0044422	0.00028763651981542	1	1	1	NA	NA	0.0655557468249909	none	group14066
+GO:0044424	0.00028763651981542	1	1	1	NA	NA	0.0655557468249909	none	group14066
+GO:0044425	0.00028763651981542	1	1	1	NA	NA	0.0655557468249909	none	group14066
+GO:0044431	0.00028763651981542	1	1	1	NA	NA	0.0655557468249909	none	group14066
+GO:0044432	0.00028763651981542	1	1	1	NA	NA	0.0655557468249909	none	group14066
+GO:0044444	0.00028763651981542	1	1	1	NA	NA	0.0655557468249909	none	group14066
+GO:0044446	0.00028763651981542	1	1	1	NA	NA	0.0655557468249909	none	group14066
+GO:0044464	0.00028763651981542	1	1	1	NA	NA	0.0655557468249909	none	group14066
+GO:0050789	0.00028763651981542	1	1	1	regulation of biological process	BP	0.0655557468249909	BP regulation of biological process	group14066
+GO:0050794	0.00028763651981542	1	1	1	regulation of cellular process	BP	0.0655557468249909	BP regulation of cellular process	group14066
+GO:0051179	0.00028763651981542	1	1	1	localization	BP	0.0655557468249909	BP localization	group14066
+GO:0051234	0.00028763651981542	1	1	1	establishment of localization	BP	0.0655557468249909	BP establishment of localization	group14066
+GO:0051641	0.00028763651981542	1	1	1	cellular localization	BP	0.0655557468249909	BP cellular localization	group14066
+GO:0051649	0.00028763651981542	1	1	1	establishment of localization in cell	BP	0.0655557468249909	BP establishment of localization in cell	group14066
+GO:0065007	0.00028763651981542	1	1	1	biological regulation	BP	0.0655557468249909	BP biological regulation	group14066
+GO:0071705	0.00028763651981542	1	1	1	nitrogen compound transport	BP	0.0655557468249909	BP nitrogen compound transport	group14066
+GO:0097708	0.00028763651981542	1	1	1	intracellular vesicle	CC	0.0655557468249909	CC intracellular vesicle	group14066
+GO:0098588	0.00028763651981542	1	1	1	bounding membrane of organelle	CC	0.0655557468249909	CC bounding membrane of organelle	group14066
+GO:0098791	0.00028763651981542	1	1	1	Golgi apparatus subcompartment	CC	0.0655557468249909	CC Golgi apparatus subcompartment	group14066
+GO:0098827	0.00028763651981542	1	1	1	endoplasmic reticulum subcompartment	CC	0.0655557468249909	CC endoplasmic reticulum subcompartment	group14066
+GO:2000269	0.00028763651981542	1	1	1	regulation of fibroblast apoptotic process	BP	0.0655557468249909	BP regulation of fibroblast apoptotic process	group14066
+GO:0030135	0.000414061181558674	1	1	2	coated vesicle	CC	0.0867950440774097	CC coated vesicle	group14066
+GO:0042578	0.00041439056939357	1	1	2	phosphoric ester hydrolase activity	MF	0.0867950440774097	MF phosphoric ester hydrolase activity	group14066
+GO:0070727	0.000414429814281089	1	1	2	cellular macromolecule localization	BP	0.0867950440774097	BP cellular macromolecule localization	group14066
+GO:0031090	0.000435917035018638	1	1	2	organelle membrane	CC	0.08794733132395	CC organelle membrane	group14066
+GO:0044237	0.000442630780956775	1	1	2	cellular metabolic process	BP	0.08794733132395	BP cellular metabolic process	group14066
+GO:0009987	0.000542317836084654	1	1	3	cellular process	BP	0.1050605227955	BP cellular process	group14066
+GO:0006796	0.000632472209970878	1	1	3	phosphate-containing compound metabolic process	BP	0.119537247684496	BP phosphate-containing compound metabolic process	group14066
+GO:0031228	0.000664237578848377	1	1	3	intrinsic component of Golgi membrane	CC	0.120838561604181	CC intrinsic component of Golgi membrane	group14066
+GO:0031301	0.0006705456380152	1	1	4	integral component of organelle membrane	CC	0.120838561604181	CC integral component of organelle membrane	group14066
+GO:0031224	0.000712809614391594	1	1	4	intrinsic component of membrane	CC	0.125535493225465	CC intrinsic component of membrane	group14066
+GO:0071702	0.000924281388688176	1	1	6	organic substance transport	BP	0.159161255132104	BP organic substance transport	group14066
+GO:0043229	0.000949884594363498	1	1	6	intracellular organelle	CC	0.16001425482006	CC intracellular organelle	group14066
+GO:0010941	0.000973949560224348	1	1	6	regulation of cell death	BP	0.160577343450606	BP regulation of cell death	group14066
+GO:0043067	0.00108186665207053	1	1	7	regulation of programmed cell death	BP	0.174653847643636	BP regulation of programmed cell death	group14066
+GO:0005798	0.00111398052447835	1	1	7	Golgi-associated vesicle	CC	0.176168062942505	CC Golgi-associated vesicle	group14066
+GO:0045184	0.0011548960489425	1	1	7	establishment of protein localization	BP	0.178985789665109	BP establishment of protein localization	group14066
+GO:0016788	0.00121499094000013	1	1	7	hydrolase activity, acting on ester bonds	MF	0.184607152824726	MF hydrolase activity, acting on ester bonds	group14066
+GO:0019899	0.00163966657948364	1	1	10	enzyme binding	MF	0.243782638685585	MF enzyme binding	group14066
+GO:0005622	0.00166737383537695	1	1	11	intracellular anatomical structure	CC	0.243782638685585	CC intracellular anatomical structure	group14066
+GO:0046907	0.0020267233018859	1	1	12	intracellular transport	BP	0.290834793820627	BP intracellular transport	group14066
+GO:0016791	0.00266562927129527	1	1	15	phosphatase activity	MF	0.375562931332128	MF phosphatase activity	group14066
+GO:0034613	0.00308889839776909	1	1	19	cellular protein localization	BP	0.427426315791298	BP cellular protein localization	group14066
+GO:0030134	0.00322189787243005	1	1	17	COPII-coated ER to Golgi transport vesicle	CC	0.438008537078254	CC COPII-coated ER to Golgi transport vesicle	group14066
+GO:0042981	0.00346667663209414	1	1	22	regulation of apoptotic process	BP	0.46315995210513	BP regulation of apoptotic process	group14066
+GO:0016311	0.0037727672038627	1	1	24	dephosphorylation	BP	0.487812841423579	BP dephosphorylation	group14066
+GO:0030173	0.00377710291462315	1	1	22	integral component of Golgi membrane	CC	0.487812841423579	CC integral component of Golgi membrane	group14066
+GO:0015031	0.00397466530038845	1	1	26	protein transport	BP	0.504912810044427	BP protein transport	group14066
+GO:0016787	0.00413132838004547	1	1	23	hydrolase activity	MF	0.516349413176973	MF hydrolase activity	group14066
+GO:0003824	0.00421357222880654	1	1	27	catalytic activity	MF	0.518269384143204	MF catalytic activity	group14066
+GO:0048193	0.00492980867937169	1	1	27	Golgi vesicle transport	BP	0.596891991507051	BP Golgi vesicle transport	group14066
+GO:0031410	0.00527375501214553	1	1	34	cytoplasmic vesicle	CC	0.628712732140242	CC cytoplasmic vesicle	group14066
+GO:0000139	0.00610296162516035	1	1	40	Golgi membrane	CC	0.716543176263145	CC Golgi membrane	group14066
+GO:0008104	0.00638284143927412	1	1	45	protein localization	BP	0.738218482282615	BP protein localization	group14066
+GO:0031982	0.00655113917024785	1	1	38	vesicle	CC	0.746540844562508	CC vesicle	group14066
+GO:0006888	0.00869910318991466	1	1	46	endoplasmic reticulum to Golgi vesicle-mediated transport	BP	0.976947110415198	BP endoplasmic reticulum to Golgi vesicle-mediated transport	group14066
+GO:0043231	0.0114603051217289	1	1	70	intracellular membrane-bounded organelle	CC	0.9999999999	CC intracellular membrane-bounded organelle	group14066
+GO:0005789	0.0134443010875689	1	1	84	endoplasmic reticulum membrane	CC	0.9999999999	CC endoplasmic reticulum membrane	group14066
+GO:0016192	0.0153198380302037	1	1	85	vesicle-mediated transport	BP	0.9999999999	BP vesicle-mediated transport	group14066
+GO:0006886	0.016376334069112	1	1	100	intracellular protein transport	BP	0.9999999999	BP intracellular protein transport	group14066
+GO:0012505	0.0232965159110626	1	1	142	endomembrane system	CC	0.9999999999	CC endomembrane system	group14066
+GO:0005794	0.0270532932699488	1	1	173	Golgi apparatus	CC	0.9999999999	CC Golgi apparatus	group14066
+GO:0005783	0.0272017030952942	1	1	174	endoplasmic reticulum	CC	0.9999999999	CC endoplasmic reticulum	group14066
+GO:0016020	0.0337272841159656	1	1	231	membrane	CC	0.9999999999	CC membrane	group14066

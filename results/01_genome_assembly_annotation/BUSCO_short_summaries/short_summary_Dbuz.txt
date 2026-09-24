@@ -1,0 +1,14 @@
+# BUSCO version is: 4.1.4 
+# The lineage dataset is: diptera_odb10 (Creation date: 2020-08-05, number of species: 56, number of BUSCOs: 3285)
+# Summarized benchmarking in BUSCO notation for file /home/nmoreyra/Documents/Genomics/00_assemblies_analysis/00_quast/01_Assembly-evaluation/genomes/Dbuz_genome.fasta
+# BUSCO was run in mode: genome
+
+	***** Results: *****
+
+	C:98.3%[S:98.0%,D:0.3%],F:0.5%,M:1.2%,n:3285	   
+	3228	Complete BUSCOs (C)			   
+	3219	Complete and single-copy BUSCOs (S)	   
+	9	Complete and duplicated BUSCOs (D)	   
+	18	Fragmented BUSCOs (F)			   
+	39	Missing BUSCOs (M)			   
+	3285	Total BUSCO groups searched		   

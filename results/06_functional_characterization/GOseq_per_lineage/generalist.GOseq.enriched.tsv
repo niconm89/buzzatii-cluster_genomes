@@ -1,0 +1,114 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0005488	0.000254252855748405	1	1	1	binding	MF	0.030432111041886	MF binding	group16290
+GO:0005623	0.000254252855748405	1	1	1	NA	NA	0.030432111041886	none	group16290
+GO:0006613	0.000254252855748405	1	1	1	cotranslational protein targeting to membrane	BP	0.030432111041886	BP cotranslational protein targeting to membrane	group16290
+GO:0006725	0.000254252855748405	1	1	1	cellular aromatic compound metabolic process	BP	0.030432111041886	BP cellular aromatic compound metabolic process	group16290
+GO:0006810	0.000254252855748405	1	1	1	transport	BP	0.030432111041886	BP transport	group16290
+GO:0008152	0.000254252855748405	1	1	1	metabolic process	BP	0.030432111041886	BP metabolic process	group16290
+GO:0009057	0.000254252855748405	1	1	1	macromolecule catabolic process	BP	0.030432111041886	BP macromolecule catabolic process	group16290
+GO:0009059	0.000254252855748405	1	1	1	macromolecule biosynthetic process	BP	0.030432111041886	BP macromolecule biosynthetic process	group16290
+GO:0009892	0.000254252855748405	1	1	1	negative regulation of metabolic process	BP	0.030432111041886	BP negative regulation of metabolic process	group16290
+GO:0010605	0.000254252855748405	1	1	1	negative regulation of macromolecule metabolic process	BP	0.030432111041886	BP negative regulation of macromolecule metabolic process	group16290
+GO:0015833	0.000254252855748405	1	1	1	peptide transport	BP	0.030432111041886	BP peptide transport	group16290
+GO:0016071	0.000254252855748405	1	1	1	mRNA metabolic process	BP	0.030432111041886	BP mRNA metabolic process	group16290
+GO:0019439	0.000254252855748405	1	1	1	aromatic compound catabolic process	BP	0.030432111041886	BP aromatic compound catabolic process	group16290
+GO:0033036	0.000254252855748405	1	1	1	macromolecule localization	BP	0.030432111041886	BP macromolecule localization	group16290
+GO:0034641	0.000254252855748405	1	1	1	cellular nitrogen compound metabolic process	BP	0.030432111041886	BP cellular nitrogen compound metabolic process	group16290
+GO:0034645	0.000254252855748405	1	1	1	cellular macromolecule biosynthetic process	BP	0.030432111041886	BP cellular macromolecule biosynthetic process	group16290
+GO:0034655	0.000254252855748405	1	1	1	nucleobase-containing compound catabolic process	BP	0.030432111041886	BP nucleobase-containing compound catabolic process	group16290
+GO:0042886	0.000254252855748405	1	1	1	amide transport	BP	0.030432111041886	BP amide transport	group16290
+GO:0043043	0.000254252855748405	1	1	1	peptide biosynthetic process	BP	0.030432111041886	BP peptide biosynthetic process	group16290
+GO:0043170	0.000254252855748405	1	1	1	macromolecule metabolic process	BP	0.030432111041886	BP macromolecule metabolic process	group16290
+GO:0043226	0.000254252855748405	1	1	1	organelle	CC	0.030432111041886	CC organelle	group16290
+GO:0043227	0.000254252855748405	1	1	1	membrane-bounded organelle	CC	0.030432111041886	CC membrane-bounded organelle	group16290
+GO:0043228	0.000254252855748405	1	1	1	non-membrane-bounded organelle	CC	0.030432111041886	CC non-membrane-bounded organelle	group16290
+GO:0043232	0.000254252855748405	1	1	1	intracellular non-membrane-bounded organelle	CC	0.030432111041886	CC intracellular non-membrane-bounded organelle	group16290
+GO:0043603	0.000254252855748405	1	1	1	cellular amide metabolic process	BP	0.030432111041886	BP cellular amide metabolic process	group16290
+GO:0043604	0.000254252855748405	1	1	1	amide biosynthetic process	BP	0.030432111041886	BP amide biosynthetic process	group16290
+GO:0044238	0.000254252855748405	1	1	1	primary metabolic process	BP	0.030432111041886	BP primary metabolic process	group16290
+GO:0044248	0.000254252855748405	1	1	1	cellular catabolic process	BP	0.030432111041886	BP cellular catabolic process	group16290
+GO:0044249	0.000254252855748405	1	1	1	cellular biosynthetic process	BP	0.030432111041886	BP cellular biosynthetic process	group16290
+GO:0044260	0.000254252855748405	1	1	1	cellular macromolecule metabolic process	BP	0.030432111041886	BP cellular macromolecule metabolic process	group16290
+GO:0044265	0.000254252855748405	1	1	1	cellular macromolecule catabolic process	BP	0.030432111041886	BP cellular macromolecule catabolic process	group16290
+GO:0044267	0.000254252855748405	1	1	1	cellular protein metabolic process	BP	0.030432111041886	BP cellular protein metabolic process	group16290
+GO:0044270	0.000254252855748405	1	1	1	cellular nitrogen compound catabolic process	BP	0.030432111041886	BP cellular nitrogen compound catabolic process	group16290
+GO:0044271	0.000254252855748405	1	1	1	cellular nitrogen compound biosynthetic process	BP	0.030432111041886	BP cellular nitrogen compound biosynthetic process	group16290
+GO:0044391	0.000254252855748405	1	1	1	ribosomal subunit	CC	0.030432111041886	CC ribosomal subunit	group16290
+GO:0044422	0.000254252855748405	1	1	1	NA	NA	0.030432111041886	none	group16290
+GO:0044424	0.000254252855748405	1	1	1	NA	NA	0.030432111041886	none	group16290
+GO:0044444	0.000254252855748405	1	1	1	NA	NA	0.030432111041886	none	group16290
+GO:0044445	0.000254252855748405	1	1	1	NA	NA	0.030432111041886	none	group16290
+GO:0044446	0.000254252855748405	1	1	1	NA	NA	0.030432111041886	none	group16290
+GO:0044464	0.000254252855748405	1	1	1	NA	NA	0.030432111041886	none	group16290
+GO:0046483	0.000254252855748405	1	1	1	heterocycle metabolic process	BP	0.030432111041886	BP heterocycle metabolic process	group16290
+GO:0046700	0.000254252855748405	1	1	1	heterocycle catabolic process	BP	0.030432111041886	BP heterocycle catabolic process	group16290
+GO:0048519	0.000254252855748405	1	1	1	negative regulation of biological process	BP	0.030432111041886	BP negative regulation of biological process	group16290
+GO:0050789	0.000254252855748405	1	1	1	regulation of biological process	BP	0.030432111041886	BP regulation of biological process	group16290
+GO:0051179	0.000254252855748405	1	1	1	localization	BP	0.030432111041886	BP localization	group16290
+GO:0051234	0.000254252855748405	1	1	1	establishment of localization	BP	0.030432111041886	BP establishment of localization	group16290
+GO:0051641	0.000254252855748405	1	1	1	cellular localization	BP	0.030432111041886	BP cellular localization	group16290
+GO:0051649	0.000254252855748405	1	1	1	establishment of localization in cell	BP	0.030432111041886	BP establishment of localization in cell	group16290
+GO:0060255	0.000254252855748405	1	1	1	regulation of macromolecule metabolic process	BP	0.030432111041886	BP regulation of macromolecule metabolic process	group16290
+GO:0065007	0.000254252855748405	1	1	1	biological regulation	BP	0.030432111041886	BP biological regulation	group16290
+GO:0070972	0.000254252855748405	1	1	1	protein localization to endoplasmic reticulum	BP	0.030432111041886	BP protein localization to endoplasmic reticulum	group16290
+GO:0071704	0.000254252855748405	1	1	1	organic substance metabolic process	BP	0.030432111041886	BP organic substance metabolic process	group16290
+GO:0071705	0.000254252855748405	1	1	1	nitrogen compound transport	BP	0.030432111041886	BP nitrogen compound transport	group16290
+GO:0072594	0.000254252855748405	1	1	1	establishment of protein localization to organelle	BP	0.030432111041886	BP establishment of protein localization to organelle	group16290
+GO:0072599	0.000254252855748405	1	1	1	establishment of protein localization to endoplasmic reticulum	BP	0.030432111041886	BP establishment of protein localization to endoplasmic reticulum	group16290
+GO:0090150	0.000254252855748405	1	1	1	establishment of protein localization to membrane	BP	0.030432111041886	BP establishment of protein localization to membrane	group16290
+GO:0090304	0.000254252855748405	1	1	1	nucleic acid metabolic process	BP	0.030432111041886	BP nucleic acid metabolic process	group16290
+GO:0097159	0.000254252855748405	1	1	1	organic cyclic compound binding	MF	0.030432111041886	MF organic cyclic compound binding	group16290
+GO:1901360	0.000254252855748405	1	1	1	organic cyclic compound metabolic process	BP	0.030432111041886	BP organic cyclic compound metabolic process	group16290
+GO:1901361	0.000254252855748405	1	1	1	organic cyclic compound catabolic process	BP	0.030432111041886	BP organic cyclic compound catabolic process	group16290
+GO:1901363	0.000254252855748405	1	1	1	heterocyclic compound binding	MF	0.030432111041886	MF heterocyclic compound binding	group16290
+GO:1901564	0.000254252855748405	1	1	1	organonitrogen compound metabolic process	BP	0.030432111041886	BP organonitrogen compound metabolic process	group16290
+GO:1901566	0.000254252855748405	1	1	1	organonitrogen compound biosynthetic process	BP	0.030432111041886	BP organonitrogen compound biosynthetic process	group16290
+GO:1901576	0.000254252855748405	1	1	1	organic substance biosynthetic process	BP	0.030432111041886	BP organic substance biosynthetic process	group16290
+GO:0019538	0.000384225207486524	1	1	2	protein metabolic process	BP	0.0446160017052493	BP protein metabolic process	group16290
+GO:0070727	0.000384225207487365	1	1	2	cellular macromolecule localization	BP	0.0446160017052493	BP cellular macromolecule localization	group16290
+GO:0044237	0.000409544261628525	1	1	2	cellular metabolic process	BP	0.0468566816980872	BP cellular metabolic process	group16290
+GO:0019222	0.000438849880212471	1	1	2	regulation of metabolic process	BP	0.049481914029754	BP regulation of metabolic process	group16290
+GO:0033365	0.000514217273331867	1	1	3	protein localization to organelle	BP	0.0549606211483538	BP protein localization to organelle	group16290
+GO:0009987	0.000515108608588973	1	1	3	cellular process	BP	0.0549606211483538	BP cellular process	group16290
+GO:0010467	0.0005185253084144	1	1	3	gene expression	BP	0.0549606211483538	BP gene expression	group16290
+GO:0006807	0.000520078693112615	1	1	3	nitrogen compound metabolic process	BP	0.0549606211483538	BP nitrogen compound metabolic process	group16290
+GO:1901575	0.000522761692156579	1	1	3	organic substance catabolic process	BP	0.0549606211483538	BP organic substance catabolic process	group16290
+GO:0009056	0.000609696259209046	1	1	3	catabolic process	BP	0.0632458252886184	BP catabolic process	group16290
+GO:0016070	0.000719629799622637	1	1	3	RNA metabolic process	BP	0.0736673663297911	BP RNA metabolic process	group16290
+GO:0006605	0.00077702773275554	1	1	5	protein targeting	BP	0.0785100748160793	BP protein targeting	group16290
+GO:0071702	0.000906744713267717	1	1	6	organic substance transport	BP	0.0902844352431056	BP organic substance transport	group16290
+GO:0015934	0.000926231362813067	1	1	4	large ribosomal subunit	CC	0.0902844352431056	CC large ribosomal subunit	group16290
+GO:0043229	0.00092951401145939	1	1	6	intracellular organelle	CC	0.0902844352431056	CC intracellular organelle	group16290
+GO:0006518	0.0009399793386493	1	1	6	peptide metabolic process	BP	0.0902844352431056	BP peptide metabolic process	group16290
+GO:0006139	0.000991454596170176	1	1	6	nucleobase-containing compound metabolic process	BP	0.0940672775390728	BP nucleobase-containing compound metabolic process	group16290
+GO:0045047	0.00105445283305669	1	1	5	protein targeting to ER	BP	0.0988390727853135	BP protein targeting to ER	group16290
+GO:0006401	0.00108154091210376	1	1	7	RNA catabolic process	BP	0.100171289240087	BP RNA catabolic process	group16290
+GO:0045184	0.00113036675596011	1	1	7	establishment of protein localization	BP	0.103461804251408	BP establishment of protein localization	group16290
+GO:0072657	0.00125695171198482	1	1	8	protein localization to membrane	BP	0.11270281703384	BP protein localization to membrane	group16290
+GO:0009058	0.0012603014244144	1	1	8	biosynthetic process	BP	0.11270281703384	BP biosynthetic process	group16290
+GO:0006614	0.00140439062498663	1	1	8	SRP-dependent cotranslational protein targeting to membrane	BP	0.124160898436318	BP SRP-dependent cotranslational protein targeting to membrane	group16290
+GO:0005840	0.00153572403320349	1	1	7	ribosome	CC	0.133506593349436	CC ribosome	group16290
+GO:0000956	0.00154442074568756	1	1	9	nuclear-transcribed mRNA catabolic process	BP	0.133506593349436	BP nuclear-transcribed mRNA catabolic process	group16290
+GO:0005622	0.00165453528670059	1	1	11	intracellular anatomical structure	CC	0.141453676159677	CC intracellular anatomical structure	group16290
+GO:0046907	0.00199332190701801	1	1	12	intracellular transport	BP	0.168565700397827	BP intracellular transport	group16290
+GO:0006402	0.00209515060572715	1	1	14	mRNA catabolic process	BP	0.175271738844701	BP mRNA catabolic process	group16290
+GO:0006612	0.00230869087791643	1	1	13	protein targeting to membrane	BP	0.191081010959466	BP protein targeting to membrane	group16290
+GO:0000184	0.00237429062385186	1	1	16	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	BP	0.194441905827026	BP nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	group16290
+GO:0034613	0.00305831698068577	1	1	19	cellular protein localization	BP	0.247851105309742	BP cellular protein localization	group16290
+GO:0005198	0.00326285582297084	1	1	20	structural molecule activity	MF	0.2617012196156	MF structural molecule activity	group16290
+GO:0015031	0.0039680323165496	1	1	26	protein transport	BP	0.315013177783224	BP protein transport	group16290
+GO:1990904	0.00452041528778338	1	1	31	ribonucleoprotein complex	CC	0.355240716555098	CC ribonucleoprotein complex	group16290
+GO:0006413	0.00495758600077261	1	1	30	translational initiation	BP	0.385700190860109	BP translational initiation	group16290
+GO:0008104	0.00644053274056622	1	1	45	protein localization	BP	0.496112323976289	BP protein localization	group16290
+GO:0022626	0.00687014187814615	1	1	32	cytosolic ribosome	CC	0.524016704038991	CC cytosolic ribosome	group16290
+GO:0022625	0.00698896336432835	1	1	32	cytosolic large ribosomal subunit	CC	0.527904223053151	CC cytosolic large ribosomal subunit	group16290
+GO:0010629	0.0076512195973594	1	1	52	negative regulation of gene expression	BP	0.572370081417848	BP negative regulation of gene expression	group16290
+GO:0032991	0.00779371634092585	1	1	53	protein-containing complex	CC	0.577477267927649	CC protein-containing complex	group16290
+GO:0010468	0.0106122853155321	1	1	73	regulation of gene expression	BP	0.778901695800373	BP regulation of gene expression	group16290
+GO:0002181	0.0110760471063678	1	1	50	cytoplasmic translation	BP	0.805342490537774	BP cytoplasmic translation	group16290
+GO:0043231	0.011394343859008	1	1	70	intracellular membrane-bounded organelle	CC	0.820814770584095	CC intracellular membrane-bounded organelle	group16290
+GO:0006412	0.0157574509806124	1	1	74	translation	BP	0.9999999999	BP translation	group16290
+GO:0006886	0.0162919815273024	1	1	100	intracellular protein transport	BP	0.9999999999	BP intracellular protein transport	group16290
+GO:0003676	0.0181051719493766	1	1	123	nucleic acid binding	MF	0.9999999999	MF nucleic acid binding	group16290
+GO:0003735	0.0192580876071052	1	1	88	structural constituent of ribosome	MF	0.9999999999	MF structural constituent of ribosome	group16290
+GO:0003723	0.0352954412981283	1	1	225	RNA binding	MF	0.9999999999	MF RNA binding	group16290

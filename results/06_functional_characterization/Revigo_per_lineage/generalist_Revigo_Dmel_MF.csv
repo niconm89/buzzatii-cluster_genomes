@@ -1,0 +1,4 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Value, Uniqueness, Dispensability, Representative, Eliminated,number_of_TRGs,divergent_TRGs,validated_TRGs
+"GO:0005488", "binding", 53.0009638131955, -5.13405813301026, 0.00332600467966415, 3.78175537465247, -1.51666792006897, 1, 0, null, False,1,,group16290
+"GO:1901363", "heterocyclic compound binding", 25.7075265048629, 4.60629055283878, 2.26714113391466, 3.46760810558363, -1.51666792006897, 0.79189135421915, 0, null, False,1,,group16290
+"GO:0097159", "organic cyclic compound binding", 25.8915272058179, 4.60333612921225, -2.2734824198506, 3.47070442972279, -1.51666792006897, 0.79189135421915, 0.22023445, null, False,1,,group16290

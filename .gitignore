@@ -1,0 +1,8 @@
+# Working folders (analyses and manuscript drafts), not tracked
+cbuzz_genomes/
+Moreyra2023_buzzatii/
+
+# System and editor files
+.DS_Store
+*~
+.Rhistory

@@ -1,0 +1,3 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Value, Uniqueness, Dispensability, Representative, Eliminated,number_of_TRGs,divergent_TRGs,validated_TRGs
+"GO:0031224", "intrinsic component of membrane", 26.4875892553553, 10, 0, 3.49373680227684, -2.75683274936359, 1, 0, null, False,2,group13045,group11141
+"GO:0005622", "intracellular anatomical structure", 58.9255355321319, 0, 10, 3.84092120019877, -2.22737417796032, 1, 0.01996428, null, False,2,group12234,group11141

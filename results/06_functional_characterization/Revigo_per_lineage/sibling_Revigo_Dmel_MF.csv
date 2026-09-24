@@ -1,0 +1,3 @@
+TermID, Name, Frequency, PlotX, PlotY, LogSize, Value, Uniqueness, Dispensability, Representative, Eliminated,number_of_TRGs,divergent_TRGs,validated_TRGs
+"GO:0005215", "transporter activity", 7.23736090423202, 0, 10, 2.91750550955255, -2.78660154165148, 1, 0, null, False,2,group13045,group11141
+"GO:0005488", "binding", 53.0009638131955, 10, 0, 3.78175537465247, -3.15025964992304, 1, 0, null, False,2,group12234,group12810

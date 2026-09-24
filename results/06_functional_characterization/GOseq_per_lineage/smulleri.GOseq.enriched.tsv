@@ -1,0 +1,14 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0032501	0.000157405949944908	1	1	1	multicellular organismal process	BP	0.607350857862427	BP multicellular organismal process	group10822
+GO:0044421	0.000157405949944908	1	1	1	NA	NA	0.607350857862427	none	group10822
+GO:0032502	0.00157405949944908	1	1	10	developmental process	BP	0.9999999999	BP developmental process	group10822
+GO:0042335	0.00173146544939399	1	1	11	cuticle development	BP	0.9999999999	BP cuticle development	group10822
+GO:0005214	0.00283330709900834	1	1	18	structural constituent of chitin-based cuticle	MF	0.9999999999	MF structural constituent of chitin-based cuticle	group10822
+GO:0005198	0.00314811899889816	1	1	20	structural molecule activity	MF	0.9999999999	MF structural molecule activity	group10822
+GO:0048856	0.00346293089878797	1	1	22	anatomical structure development	BP	0.9999999999	BP anatomical structure development	group10822
+GO:0007275	0.00487958444829215	1	1	31	multicellular organism development	BP	0.9999999999	BP multicellular organism development	group10822
+GO:0008010	0.00724067369746577	1	1	46	structural constituent of chitin-based larval cuticle	MF	0.9999999999	MF structural constituent of chitin-based larval cuticle	group10822
+GO:0042302	0.00739807964741067	1	1	47	structural constituent of cuticle	MF	0.9999999999	MF structural constituent of cuticle	group10822
+GO:0031012	0.0114906343459783	1	1	73	extracellular matrix	CC	0.9999999999	CC extracellular matrix	group10822
+GO:0040003	0.0132220997953723	1	1	84	chitin-based cuticle development	BP	0.9999999999	BP chitin-based cuticle development	group10822
+GO:0005576	0.0321108137887612	1	1	204	extracellular region	CC	0.9999999999	CC extracellular region	group10822

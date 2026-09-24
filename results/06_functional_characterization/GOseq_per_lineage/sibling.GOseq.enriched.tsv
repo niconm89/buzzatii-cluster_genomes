@@ -1,0 +1,291 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	go_term	gene_ids
+GO:0032501	0	1	5	5	multicellular organismal process	BP	0	BP multicellular organismal process	group13045, group11141, group13032, group12234, group12810
+GO:0050789	1.68246110895269e-12	1	4	4	regulation of biological process	BP	4.42038615358838e-09	BP regulation of biological process	group13045, group11141, group12234, group12810
+GO:0065007	1.68246110895269e-12	1	4	4	biological regulation	BP	4.42038615358838e-09	BP biological regulation	group13045, group11141, group12234, group12810
+GO:0050794	2.44841001671491e-09	1	3	3	regulation of cellular process	BP	4.82459193793674e-06	BP regulation of cellular process	group11141, group12234, group12810
+GO:0009987	1.00231880647291e-08	0.999999999997434	3	5	cellular process	BP	1.58005536652389e-05	BP cellular process	group13045, group11141, group12234
+GO:0032502	1.75835407585856e-07	0.999999999811865	3	12	developmental process	BP	0.000230989113765286	BP developmental process	group13045, group11141, group12234
+GO:0048856	3.07580664439063e-07	0.999999999558341	3	24	anatomical structure development	BP	0.000346335828158384	BP anatomical structure development	group13045, group11141, group12234
+GO:0007275	9.98739484200357e-07	0.999999997814948	3	33	multicellular organism development	BP	0.000707522654140148	BP multicellular organism development	group13045, group11141, group12234
+GO:0065008	1.93916343013152e-06	1	2	2	regulation of biological quality	BP	0.000707522654140148	BP regulation of biological quality	group11141, group12810
+GO:0005488	2.34207305372096e-06	1	2	2	binding	MF	0.000707522654140148	MF binding	group12234, group12810
+GO:0007610	2.34207305372096e-06	1	2	2	behavior	BP	0.000707522654140148	BP behavior	group12234, group12810
+GO:0019098	2.34207305372096e-06	1	2	2	reproductive behavior	BP	0.000707522654140148	BP reproductive behavior	group12234, group12810
+GO:0019953	2.34207305372096e-06	1	2	2	sexual reproduction	BP	0.000707522654140148	BP sexual reproduction	group12234, group12810
+GO:0044703	2.34207305372096e-06	1	2	2	multi-organism reproductive process	BP	0.000707522654140148	BP multi-organism reproductive process	group12234, group12810
+GO:0048609	2.34207305372096e-06	1	2	2	multicellular organismal reproductive process	BP	0.000707522654140148	BP multicellular organismal reproductive process	group12234, group12810
+GO:0051704	2.34207305372096e-06	1	2	2	multi-organism process	BP	0.000707522654140148	BP multi-organism process	group12234, group12810
+GO:0006810	2.38934805398282e-06	1	2	2	transport	BP	0.000707522654140148	BP transport	group13045, group11141
+GO:0044425	2.38934805398282e-06	1	2	2	NA	NA	0.000707522654140148	none	group13045, group11141
+GO:0046903	2.38934805398282e-06	1	2	2	secretion	BP	0.000707522654140148	BP secretion	group13045, group11141
+GO:0051179	2.38934805398282e-06	1	2	2	localization	BP	0.000707522654140148	BP localization	group13045, group11141
+GO:0051234	2.38934805398282e-06	1	2	2	establishment of localization	BP	0.000707522654140148	BP establishment of localization	group13045, group11141
+GO:0005623	2.87245939260146e-06	1	2	2	NA	NA	0.000707522654140148	none	group11141, group12234
+GO:0006950	2.87245939260146e-06	1	2	2	response to stress	BP	0.000707522654140148	BP response to stress	group11141, group12234
+GO:0009628	2.87245939260146e-06	1	2	2	response to abiotic stimulus	BP	0.000707522654140148	BP response to abiotic stimulus	group11141, group12234
+GO:0009889	2.87245939260146e-06	1	2	2	regulation of biosynthetic process	BP	0.000707522654140148	BP regulation of biosynthetic process	group11141, group12234
+GO:0031326	2.87245939260146e-06	1	2	2	regulation of cellular biosynthetic process	BP	0.000707522654140148	BP regulation of cellular biosynthetic process	group11141, group12234
+GO:0044424	2.87245939260146e-06	1	2	2	NA	NA	0.000707522654140148	none	group11141, group12234
+GO:0044464	2.87245939260146e-06	1	2	2	NA	NA	0.000707522654140148	none	group11141, group12234
+GO:0048731	2.87245939260146e-06	1	2	2	system development	BP	0.000707522654140148	BP system development	group11141, group12234
+GO:0050896	2.87245939260146e-06	1	2	2	response to stimulus	BP	0.000707522654140148	BP response to stimulus	group11141, group12234
+GO:0051171	2.87245939260146e-06	1	2	2	regulation of nitrogen compound metabolic process	BP	0.000707522654140148	BP regulation of nitrogen compound metabolic process	group11141, group12234
+GO:0080090	2.87245939260146e-06	1	2	2	regulation of primary metabolic process	BP	0.000707522654140148	BP regulation of primary metabolic process	group11141, group12234
+GO:0022414	4.60023509389093e-06	0.999999998724401	2	3	reproductive process	BP	0.00109875918212268	BP reproductive process	group12234, group12810
+GO:0007618	6.07027086833564e-06	0.999999997265473	2	4	mating	BP	0.00140723161718298	BP mating	group12234, group12810
+GO:0008150	6.28808124946489e-06	1	5	448	biological_process	BP	0.00141607589737949	BP biological_process	group13045, group11141, group13032, group12234, group12810
+GO:0019222	6.49126751622268e-06	0.999999997861181	2	3	regulation of metabolic process	BP	0.00142122696007964	BP regulation of metabolic process	group11141, group12234
+GO:0005215	7.67297444693529e-06	0.999999995484397	2	5	transporter activity	MF	0.00163455093488497	MF transporter activity	group13045, group11141
+GO:0031323	8.14822413708914e-06	0.999999995746161	2	4	regulation of cellular metabolic process	BP	0.00165629234069718	BP regulation of cellular metabolic process	group11141, group12234
+GO:0000003	8.19530592326695e-06	0.999999995709215	2	4	reproduction	BP	0.00165629234069718	BP reproduction	group12234, group12810
+GO:0031224	8.88363714690405e-06	0.999999994373807	2	5	intrinsic component of membrane	CC	0.00175052069979744	CC intrinsic component of membrane	group13045, group11141
+GO:0060180	1.55771125520406e-05	0.999999985771212	2	6	female mating behavior	BP	0.0029946049057362	BP female mating behavior	group12234, group12810
+GO:0007617	1.79217625034093e-05	0.999999980721365	2	8	mating behavior	BP	0.00336331742980649	BP mating behavior	group12234, group12810
+GO:0005622	3.23189949786431e-05	0.999999949286321	2	12	intracellular anatomical structure	CC	0.00592414694003873	CC intracellular anatomical structure	group11141, group12234
+GO:0005575	0.000322148934796844	0.999993686491707	4	473	cellular_component	CC	0.0577085887288346	CC cellular_component	group13045, group11141, group12234, group12810
+GO:0010469	0.00137275090636908	1	1	1	regulation of signaling receptor activity	BP	0.0872685209679212	BP regulation of signaling receptor activity	group12810
+GO:0010646	0.00137275090636908	1	1	1	regulation of cell communication	BP	0.0872685209679212	BP regulation of cell communication	group12810
+GO:0023051	0.00137275090636908	1	1	1	regulation of signaling	BP	0.0872685209679212	BP regulation of signaling	group12810
+GO:0030545	0.00137275090636908	1	1	1	signaling receptor regulator activity	MF	0.0872685209679212	MF signaling receptor regulator activity	group12810
+GO:0044421	0.00137275090636908	1	1	1	NA	NA	0.0872685209679212	none	group12810
+GO:0048583	0.00137275090636908	1	1	1	regulation of response to stimulus	BP	0.0872685209679212	BP regulation of response to stimulus	group12810
+GO:0065009	0.00137275090636908	1	1	1	regulation of molecular function	BP	0.0872685209679212	BP regulation of molecular function	group12810
+GO:0098772	0.00137275090636908	1	1	1	molecular function regulator	MF	0.0872685209679212	MF molecular function regulator	group12810
+GO:0003008	0.00167021244388733	1	1	1	system process	BP	0.0872685209679212	BP system process	group13032
+GO:0007600	0.00167021244388733	1	1	1	sensory perception	BP	0.0872685209679212	BP sensory perception	group13032
+GO:0003674	0.00169002395942064	0.999947031949291	4	724	molecular_function	MF	0.0872685209679212	MF molecular_function	group13045, group11141, group12234, group12810
+GO:0002790	0.00171517468960679	1	1	1	peptide secretion	BP	0.0872685209679212	BP peptide secretion	group13045
+GO:0003002	0.00171517468960679	1	1	1	regionalization	BP	0.0872685209679212	BP regionalization	group13045
+GO:0008565	0.00171517468960679	1	1	1	NA	NA	0.0872685209679212	none	group13045
+GO:0015833	0.00171517468960679	1	1	1	peptide transport	BP	0.0872685209679212	BP peptide transport	group13045
+GO:0033036	0.00171517468960679	1	1	1	macromolecule localization	BP	0.0872685209679212	BP macromolecule localization	group13045
+GO:0042886	0.00171517468960679	1	1	1	amide transport	BP	0.0872685209679212	BP amide transport	group13045
+GO:0048042	0.00171517468960679	1	1	1	NA	NA	0.0872685209679212	none	group13045
+GO:0051239	0.00171517468960679	1	1	1	regulation of multicellular organismal process	BP	0.0872685209679212	BP regulation of multicellular organismal process	group13045
+GO:0071705	0.00171517468960679	1	1	1	nitrogen compound transport	BP	0.0872685209679212	BP nitrogen compound transport	group13045
+GO:2000241	0.00171517468960679	1	1	1	regulation of reproductive process	BP	0.0872685209679212	BP regulation of reproductive process	group13045
+GO:0006140	0.00174030811729472	1	1	1	regulation of nucleotide metabolic process	BP	0.0872685209679212	BP regulation of nucleotide metabolic process	group11141
+GO:0006725	0.00174030811729472	1	1	1	cellular aromatic compound metabolic process	BP	0.0872685209679212	BP cellular aromatic compound metabolic process	group11141
+GO:0006793	0.00174030811729472	1	1	1	phosphorus metabolic process	BP	0.0872685209679212	BP phosphorus metabolic process	group11141
+GO:0007595	0.00174030811729472	1	1	1	lactation	BP	0.0872685209679212	BP lactation	group11141
+GO:0008152	0.00174030811729472	1	1	1	metabolic process	BP	0.0872685209679212	BP metabolic process	group11141
+GO:0009123	0.00174030811729472	1	1	1	nucleoside monophosphate metabolic process	BP	0.0872685209679212	BP nucleoside monophosphate metabolic process	group11141
+GO:0009126	0.00174030811729472	1	1	1	purine nucleoside monophosphate metabolic process	BP	0.0872685209679212	BP purine nucleoside monophosphate metabolic process	group11141
+GO:0009141	0.00174030811729472	1	1	1	nucleoside triphosphate metabolic process	BP	0.0872685209679212	BP nucleoside triphosphate metabolic process	group11141
+GO:0009144	0.00174030811729472	1	1	1	purine nucleoside triphosphate metabolic process	BP	0.0872685209679212	BP purine nucleoside triphosphate metabolic process	group11141
+GO:0009150	0.00174030811729472	1	1	1	purine ribonucleotide metabolic process	BP	0.0872685209679212	BP purine ribonucleotide metabolic process	group11141
+GO:0009161	0.00174030811729472	1	1	1	ribonucleoside monophosphate metabolic process	BP	0.0872685209679212	BP ribonucleoside monophosphate metabolic process	group11141
+GO:0009167	0.00174030811729472	1	1	1	purine ribonucleoside monophosphate metabolic process	BP	0.0872685209679212	BP purine ribonucleoside monophosphate metabolic process	group11141
+GO:0009199	0.00174030811729472	1	1	1	ribonucleoside triphosphate metabolic process	BP	0.0872685209679212	BP ribonucleoside triphosphate metabolic process	group11141
+GO:0009205	0.00174030811729472	1	1	1	purine ribonucleoside triphosphate metabolic process	BP	0.0872685209679212	BP purine ribonucleoside triphosphate metabolic process	group11141
+GO:0009259	0.00174030811729472	1	1	1	ribonucleotide metabolic process	BP	0.0872685209679212	BP ribonucleotide metabolic process	group11141
+GO:0009891	0.00174030811729472	1	1	1	positive regulation of biosynthetic process	BP	0.0872685209679212	BP positive regulation of biosynthetic process	group11141
+GO:0009893	0.00174030811729472	1	1	1	positive regulation of metabolic process	BP	0.0872685209679212	BP positive regulation of metabolic process	group11141
+GO:0010562	0.00174030811729472	1	1	1	positive regulation of phosphorus metabolic process	BP	0.0872685209679212	BP positive regulation of phosphorus metabolic process	group11141
+GO:0010726	0.00174030811729472	1	1	1	positive regulation of hydrogen peroxide metabolic process	BP	0.0872685209679212	BP positive regulation of hydrogen peroxide metabolic process	group11141
+GO:0010728	0.00174030811729472	1	1	1	regulation of hydrogen peroxide biosynthetic process	BP	0.0872685209679212	BP regulation of hydrogen peroxide biosynthetic process	group11141
+GO:0010729	0.00174030811729472	1	1	1	positive regulation of hydrogen peroxide biosynthetic process	BP	0.0872685209679212	BP positive regulation of hydrogen peroxide biosynthetic process	group11141
+GO:0010939	0.00174030811729472	1	1	1	regulation of necrotic cell death	BP	0.0872685209679212	BP regulation of necrotic cell death	group11141
+GO:0015002	0.00174030811729472	1	1	1	NA	NA	0.0872685209679212	none	group11141
+GO:0015077	0.00174030811729472	1	1	1	NA	NA	0.0872685209679212	none	group11141
+GO:0015078	0.00174030811729472	1	1	1	proton transmembrane transporter activity	MF	0.0872685209679212	MF proton transmembrane transporter activity	group11141
+GO:0015318	0.00174030811729472	1	1	1	inorganic molecular entity transmembrane transporter activity	MF	0.0872685209679212	MF inorganic molecular entity transmembrane transporter activity	group11141
+GO:0015980	0.00174030811729472	1	1	1	energy derivation by oxidation of organic compounds	BP	0.0872685209679212	BP energy derivation by oxidation of organic compounds	group11141
+GO:0016675	0.00174030811729472	1	1	1	oxidoreductase activity, acting on a heme group of donors	MF	0.0872685209679212	MF oxidoreductase activity, acting on a heme group of donors	group11141
+GO:0016676	0.00174030811729472	1	1	1	NA	NA	0.0872685209679212	none	group11141
+GO:0017144	0.00174030811729472	1	1	1	NA	NA	0.0872685209679212	none	group11141
+GO:0019219	0.00174030811729472	1	1	1	regulation of nucleobase-containing compound metabolic process	BP	0.0872685209679212	BP regulation of nucleobase-containing compound metabolic process	group11141
+GO:0019220	0.00174030811729472	1	1	1	regulation of phosphate metabolic process	BP	0.0872685209679212	BP regulation of phosphate metabolic process	group11141
+GO:0019637	0.00174030811729472	1	1	1	organophosphate metabolic process	BP	0.0872685209679212	BP organophosphate metabolic process	group11141
+GO:0019646	0.00174030811729472	1	1	1	aerobic electron transport chain	BP	0.0872685209679212	BP aerobic electron transport chain	group11141
+GO:0019866	0.00174030811729472	1	1	1	organelle inner membrane	CC	0.0872685209679212	CC organelle inner membrane	group11141
+GO:0030808	0.00174030811729472	1	1	1	regulation of nucleotide biosynthetic process	BP	0.0872685209679212	BP regulation of nucleotide biosynthetic process	group11141
+GO:0030810	0.00174030811729472	1	1	1	positive regulation of nucleotide biosynthetic process	BP	0.0872685209679212	BP positive regulation of nucleotide biosynthetic process	group11141
+GO:0030879	0.00174030811729472	1	1	1	mammary gland development	BP	0.0872685209679212	BP mammary gland development	group11141
+GO:0031325	0.00174030811729472	1	1	1	positive regulation of cellular metabolic process	BP	0.0872685209679212	BP positive regulation of cellular metabolic process	group11141
+GO:0031328	0.00174030811729472	1	1	1	positive regulation of cellular biosynthetic process	BP	0.0872685209679212	BP positive regulation of cellular biosynthetic process	group11141
+GO:0031967	0.00174030811729472	1	1	1	organelle envelope	CC	0.0872685209679212	CC organelle envelope	group11141
+GO:0031975	0.00174030811729472	1	1	1	envelope	CC	0.0872685209679212	CC envelope	group11141
+GO:0034641	0.00174030811729472	1	1	1	cellular nitrogen compound metabolic process	BP	0.0872685209679212	BP cellular nitrogen compound metabolic process	group11141
+GO:0043226	0.00174030811729472	1	1	1	organelle	CC	0.0872685209679212	CC organelle	group11141
+GO:0043227	0.00174030811729472	1	1	1	membrane-bounded organelle	CC	0.0872685209679212	CC membrane-bounded organelle	group11141
+GO:0044238	0.00174030811729472	1	1	1	primary metabolic process	BP	0.0872685209679212	BP primary metabolic process	group11141
+GO:0044281	0.00174030811729472	1	1	1	small molecule metabolic process	BP	0.0872685209679212	BP small molecule metabolic process	group11141
+GO:0044422	0.00174030811729472	1	1	1	NA	NA	0.0872685209679212	none	group11141
+GO:0044429	0.00174030811729472	1	1	1	NA	NA	0.0872685209679212	none	group11141
+GO:0044444	0.00174030811729472	1	1	1	NA	NA	0.0872685209679212	none	group11141
+GO:0044446	0.00174030811729472	1	1	1	NA	NA	0.0872685209679212	none	group11141
+GO:0044455	0.00174030811729472	1	1	1	NA	NA	0.0872685209679212	none	group11141
+GO:0045277	0.00174030811729472	1	1	1	respiratory chain complex IV	CC	0.0872685209679212	CC respiratory chain complex IV	group11141
+GO:0045935	0.00174030811729472	1	1	1	positive regulation of nucleobase-containing compound metabolic process	BP	0.0872685209679212	BP positive regulation of nucleobase-containing compound metabolic process	group11141
+GO:0045937	0.00174030811729472	1	1	1	positive regulation of phosphate metabolic process	BP	0.0872685209679212	BP positive regulation of phosphate metabolic process	group11141
+GO:0045981	0.00174030811729472	1	1	1	positive regulation of nucleotide metabolic process	BP	0.0872685209679212	BP positive regulation of nucleotide metabolic process	group11141
+GO:0046483	0.00174030811729472	1	1	1	heterocycle metabolic process	BP	0.0872685209679212	BP heterocycle metabolic process	group11141
+GO:0048518	0.00174030811729472	1	1	1	positive regulation of biological process	BP	0.0872685209679212	BP positive regulation of biological process	group11141
+GO:0048522	0.00174030811729472	1	1	1	positive regulation of cellular process	BP	0.0872685209679212	BP positive regulation of cellular process	group11141
+GO:0048732	0.00174030811729472	1	1	1	gland development	BP	0.0872685209679212	BP gland development	group11141
+GO:0050878	0.00174030811729472	1	1	1	regulation of body fluid levels	BP	0.0872685209679212	BP regulation of body fluid levels	group11141
+GO:0051173	0.00174030811729472	1	1	1	positive regulation of nitrogen compound metabolic process	BP	0.0872685209679212	BP positive regulation of nitrogen compound metabolic process	group11141
+GO:0051174	0.00174030811729472	1	1	1	regulation of phosphorus metabolic process	BP	0.0872685209679212	BP regulation of phosphorus metabolic process	group11141
+GO:0051193	0.00174030811729472	1	1	1	NA	NA	0.0872685209679212	none	group11141
+GO:0051194	0.00174030811729472	1	1	1	NA	NA	0.0872685209679212	none	group11141
+GO:0055086	0.00174030811729472	1	1	1	nucleobase-containing small molecule metabolic process	BP	0.0872685209679212	BP nucleobase-containing small molecule metabolic process	group11141
+GO:0062012	0.00174030811729472	1	1	1	regulation of small molecule metabolic process	BP	0.0872685209679212	BP regulation of small molecule metabolic process	group11141
+GO:0062013	0.00174030811729472	1	1	1	positive regulation of small molecule metabolic process	BP	0.0872685209679212	BP positive regulation of small molecule metabolic process	group11141
+GO:0070069	0.00174030811729472	1	1	1	cytochrome complex	CC	0.0872685209679212	CC cytochrome complex	group11141
+GO:0070469	0.00174030811729472	1	1	1	respirasome	CC	0.0872685209679212	CC respirasome	group11141
+GO:0071704	0.00174030811729472	1	1	1	organic substance metabolic process	BP	0.0872685209679212	BP organic substance metabolic process	group11141
+GO:0072521	0.00174030811729472	1	1	1	purine-containing compound metabolic process	BP	0.0872685209679212	BP purine-containing compound metabolic process	group11141
+GO:0098660	0.00174030811729472	1	1	1	inorganic ion transmembrane transport	BP	0.0872685209679212	BP inorganic ion transmembrane transport	group11141
+GO:0098796	0.00174030811729472	1	1	1	membrane protein complex	CC	0.0872685209679212	CC membrane protein complex	group11141
+GO:0098798	0.00174030811729472	1	1	1	mitochondrial protein-containing complex	CC	0.0872685209679212	CC mitochondrial protein-containing complex	group11141
+GO:0098800	0.00174030811729472	1	1	1	inner mitochondrial membrane protein complex	CC	0.0872685209679212	CC inner mitochondrial membrane protein complex	group11141
+GO:0098803	0.00174030811729472	1	1	1	respiratory chain complex	CC	0.0872685209679212	CC respiratory chain complex	group11141
+GO:1900371	0.00174030811729472	1	1	1	regulation of purine nucleotide biosynthetic process	BP	0.0872685209679212	BP regulation of purine nucleotide biosynthetic process	group11141
+GO:1900373	0.00174030811729472	1	1	1	positive regulation of purine nucleotide biosynthetic process	BP	0.0872685209679212	BP positive regulation of purine nucleotide biosynthetic process	group11141
+GO:1900542	0.00174030811729472	1	1	1	regulation of purine nucleotide metabolic process	BP	0.0872685209679212	BP regulation of purine nucleotide metabolic process	group11141
+GO:1900544	0.00174030811729472	1	1	1	positive regulation of purine nucleotide metabolic process	BP	0.0872685209679212	BP positive regulation of purine nucleotide metabolic process	group11141
+GO:1901135	0.00174030811729472	1	1	1	carbohydrate derivative metabolic process	BP	0.0872685209679212	BP carbohydrate derivative metabolic process	group11141
+GO:1901360	0.00174030811729472	1	1	1	organic cyclic compound metabolic process	BP	0.0872685209679212	BP organic cyclic compound metabolic process	group11141
+GO:1901564	0.00174030811729472	1	1	1	organonitrogen compound metabolic process	BP	0.0872685209679212	BP organonitrogen compound metabolic process	group11141
+GO:1903426	0.00174030811729472	1	1	1	regulation of reactive oxygen species biosynthetic process	BP	0.0872685209679212	BP regulation of reactive oxygen species biosynthetic process	group11141
+GO:1903428	0.00174030811729472	1	1	1	positive regulation of reactive oxygen species biosynthetic process	BP	0.0872685209679212	BP positive regulation of reactive oxygen species biosynthetic process	group11141
+GO:1903578	0.00174030811729472	1	1	1	regulation of ATP metabolic process	BP	0.0872685209679212	BP regulation of ATP metabolic process	group11141
+GO:1903580	0.00174030811729472	1	1	1	positive regulation of ATP metabolic process	BP	0.0872685209679212	BP positive regulation of ATP metabolic process	group11141
+GO:2001169	0.00174030811729472	1	1	1	regulation of ATP biosynthetic process	BP	0.0872685209679212	BP regulation of ATP biosynthetic process	group11141
+GO:2001171	0.00174030811729472	1	1	1	positive regulation of ATP biosynthetic process	BP	0.0872685209679212	BP positive regulation of ATP biosynthetic process	group11141
+GO:0007621	0.00195936267955726	0.999999231396659	1	2	negative regulation of female receptivity	BP	0.0872685209679212	BP negative regulation of female receptivity	group12810
+GO:0009605	0.00204829692705727	1	1	1	response to external stimulus	BP	0.0872685209679212	BP response to external stimulus	group12234
+GO:0009890	0.00204829692705727	1	1	1	negative regulation of biosynthetic process	BP	0.0872685209679212	BP negative regulation of biosynthetic process	group12234
+GO:0009892	0.00204829692705727	1	1	1	negative regulation of metabolic process	BP	0.0872685209679212	BP negative regulation of metabolic process	group12234
+GO:0010556	0.00204829692705727	1	1	1	regulation of macromolecule biosynthetic process	BP	0.0872685209679212	BP regulation of macromolecule biosynthetic process	group12234
+GO:0010558	0.00204829692705727	1	1	1	negative regulation of macromolecule biosynthetic process	BP	0.0872685209679212	BP negative regulation of macromolecule biosynthetic process	group12234
+GO:0010605	0.00204829692705727	1	1	1	negative regulation of macromolecule metabolic process	BP	0.0872685209679212	BP negative regulation of macromolecule metabolic process	group12234
+GO:0021700	0.00204829692705727	1	1	1	developmental maturation	BP	0.0872685209679212	BP developmental maturation	group12234
+GO:0031324	0.00204829692705727	1	1	1	negative regulation of cellular metabolic process	BP	0.0872685209679212	BP negative regulation of cellular metabolic process	group12234
+GO:0031327	0.00204829692705727	1	1	1	negative regulation of cellular biosynthetic process	BP	0.0872685209679212	BP negative regulation of cellular biosynthetic process	group12234
+GO:0032268	0.00204829692705727	1	1	1	regulation of cellular protein metabolic process	BP	0.0872685209679212	BP regulation of cellular protein metabolic process	group12234
+GO:0032269	0.00204829692705727	1	1	1	negative regulation of cellular protein metabolic process	BP	0.0872685209679212	BP negative regulation of cellular protein metabolic process	group12234
+GO:0033554	0.00204829692705727	1	1	1	cellular response to stress	BP	0.0872685209679212	BP cellular response to stress	group12234
+GO:0034248	0.00204829692705727	1	1	1	regulation of cellular amide metabolic process	BP	0.0872685209679212	BP regulation of cellular amide metabolic process	group12234
+GO:0034249	0.00204829692705727	1	1	1	negative regulation of cellular amide metabolic process	BP	0.0872685209679212	BP negative regulation of cellular amide metabolic process	group12234
+GO:0042551	0.00204829692705727	1	1	1	neuron maturation	BP	0.0872685209679212	BP neuron maturation	group12234
+GO:0048469	0.00204829692705727	1	1	1	cell maturation	BP	0.0872685209679212	BP cell maturation	group12234
+GO:0048519	0.00204829692705727	1	1	1	negative regulation of biological process	BP	0.0872685209679212	BP negative regulation of biological process	group12234
+GO:0048523	0.00204829692705727	1	1	1	negative regulation of cellular process	BP	0.0872685209679212	BP negative regulation of cellular process	group12234
+GO:0048869	0.00204829692705727	1	1	1	cellular developmental process	BP	0.0872685209679212	BP cellular developmental process	group12234
+GO:0051172	0.00204829692705727	1	1	1	negative regulation of nitrogen compound metabolic process	BP	0.0872685209679212	BP negative regulation of nitrogen compound metabolic process	group12234
+GO:0051246	0.00204829692705727	1	1	1	regulation of protein metabolic process	BP	0.0872685209679212	BP regulation of protein metabolic process	group12234
+GO:0051248	0.00204829692705727	1	1	1	negative regulation of protein metabolic process	BP	0.0872685209679212	BP negative regulation of protein metabolic process	group12234
+GO:0051716	0.00204829692705727	1	1	1	cellular response to stimulus	BP	0.0872685209679212	BP cellular response to stimulus	group12234
+GO:0060255	0.00204829692705727	1	1	1	regulation of macromolecule metabolic process	BP	0.0872685209679212	BP regulation of macromolecule metabolic process	group12234
+GO:0071695	0.00204829692705727	1	1	1	anatomical structure maturation	BP	0.0872685209679212	BP anatomical structure maturation	group12234
+GO:0097159	0.00204829692705727	1	1	1	organic cyclic compound binding	MF	0.0872685209679212	MF organic cyclic compound binding	group12234
+GO:1901363	0.00204829692705727	1	1	1	heterocyclic compound binding	MF	0.0872685209679212	MF heterocyclic compound binding	group12234
+GO:2000112	0.00204829692705727	1	1	1	regulation of cellular macromolecule biosynthetic process	BP	0.0872685209679212	BP regulation of cellular macromolecule biosynthetic process	group12234
+GO:2000113	0.00204829692705727	1	1	1	negative regulation of cellular macromolecule biosynthetic process	BP	0.0872685209679212	BP negative regulation of cellular macromolecule biosynthetic process	group12234
+GO:0032504	0.00207352169141182	0.999970120403596	2	71	multicellular organism reproduction	BP	0.0878511029439786	BP multicellular organism reproduction	group12234, group12810
+GO:0019233	0.00208426240174118	0.999999130218851	1	2	sensory perception of pain	BP	0.0878511029439786	BP sensory perception of pain	group13032
+GO:0023052	0.00212898505101167	0.999999092467682	1	2	signaling	BP	0.0883577350306829	BP signaling	group13045
+GO:0050795	0.0021524617789284	0.999999072329171	1	2	regulation of behavior	BP	0.0883577350306829	BP regulation of behavior	group13045
+GO:0015075	0.0021525333435837	0.999999072267444	1	2	ion transmembrane transporter activity	MF	0.0883577350306829	MF ion transmembrane transporter activity	group11141
+GO:0098662	0.0021525333435837	0.999999072267444	1	2	inorganic cation transmembrane transport	BP	0.0883577350306829	BP inorganic cation transmembrane transport	group11141
+GO:0007267	0.00216448125194808	0.999999061933132	1	2	cell-cell signaling	BP	0.0883577350306829	BP cell-cell signaling	group13045
+GO:0042773	0.00216545076336224	0.999999061092041	1	2	ATP synthesis coupled electron transport	BP	0.0883577350306829	BP ATP synthesis coupled electron transport	group11141
+GO:0198738	0.00217475267647202	0.999999053003073	1	2	cell-cell signaling by wnt	BP	0.0883577350306829	BP cell-cell signaling by wnt	group13045
+GO:0023061	0.00237996551373461	0.999998865711003	1	2	signal release	BP	0.0961994265602882	BP signal release	group13045
+GO:0031090	0.00244414767149329	0.999998803661634	1	2	organelle membrane	CC	0.0982896527893374	CC organelle membrane	group11141
+GO:0042330	0.00246042039952286	0.999998787666702	1	2	taxis	BP	0.0984417948682193	BP taxis	group12234
+GO:2000379	0.00249547704883704	0.99999875284708	1	2	positive regulation of reactive oxygen species metabolic process	BP	0.0993401520148159	BP positive regulation of reactive oxygen species metabolic process	group11141
+GO:0044237	0.00252053906384582	0.999998727651867	1	2	cellular metabolic process	BP	0.099429458544484	BP cellular metabolic process	group11141
+GO:0009629	0.00252294997575448	0.999998725214837	1	2	response to gravity	BP	0.099429458544484	BP response to gravity	group12234
+GO:0015672	0.00259718828195761	0.999998199017816	1	3	NA	NA	0.101845960389999	none	group11141
+GO:0006807	0.00267918221594831	0.999998083423845	1	3	nitrogen compound metabolic process	BP	0.104541159535171	BP nitrogen compound metabolic process	group11141
+GO:0010608	0.00288679961096658	0.999997774625822	1	3	posttranscriptional regulation of gene expression	BP	0.111753685773338	BP posttranscriptional regulation of gene expression	group12234
+GO:0007154	0.00290769913855723	0.999997742261934	1	3	cell communication	BP	0.111753685773338	BP cell communication	group13045
+GO:0048468	0.0029122168988093	0.999997735235214	1	3	cell development	BP	0.111753685773338	BP cell development	group12234
+GO:0046008	0.00292541226003282	0.999997714649135	1	3	regulation of female receptivity, post-mating	BP	0.111753685773338	BP regulation of female receptivity, post-mating	group12810
+GO:0008050	0.00293491663982251	0.999997699763561	1	3	female courtship behavior	BP	0.111753685773338	BP female courtship behavior	group12234
+GO:0006091	0.00311484354688055	0.999997085241725	1	4	generation of precursor metabolites and energy	BP	0.118034600175541	BP generation of precursor metabolites and energy	group11141
+GO:0009409	0.00316336246810767	0.999997327412769	1	3	response to cold	BP	0.11929963145275	BP response to cold	group11141
+GO:0006753	0.0032375552688721	0.999997899896346	1	2	nucleoside phosphate metabolic process	BP	0.120476306513289	BP nucleoside phosphate metabolic process	group11141
+GO:0019693	0.0032375552688721	0.999997899896346	1	2	ribose phosphate metabolic process	BP	0.120476306513289	BP ribose phosphate metabolic process	group11141
+GO:0010940	0.00324604471737985	0.999997185753282	1	3	positive regulation of necrotic cell death	BP	0.120476306513289	BP positive regulation of necrotic cell death	group11141
+GO:0032940	0.00325570328436063	0.999996815433176	1	4	secretion by cell	BP	0.120476306513289	BP secretion by cell	group13045
+GO:0045434	0.00339968369850714	0.999996527285345	1	4	negative regulation of female receptivity, post-mating	BP	0.125216387437539	BP negative regulation of female receptivity, post-mating	group12810
+GO:0010310	0.00341813978872527	0.999997658828841	1	2	regulation of hydrogen peroxide metabolic process	BP	0.125310594487128	BP regulation of hydrogen peroxide metabolic process	group11141
+GO:0030534	0.00343565172846828	0.999996453351321	1	4	adult behavior	BP	0.125369476499014	BP adult behavior	group12234
+GO:0006796	0.00368921165484652	0.999996364005376	1	3	phosphate-containing compound metabolic process	BP	0.133635072784418	BP phosphate-containing compound metabolic process	group11141
+GO:0042775	0.00369607280728281	0.999996350455048	1	3	mitochondrial ATP synthesis coupled electron transport	BP	0.133635072784418	BP mitochondrial ATP synthesis coupled electron transport	group11141
+GO:0048699	0.00371776453142619	0.999995569819092	1	5	generation of neurons	BP	0.133805570943841	BP generation of neurons	group12234
+GO:0022890	0.00381694023517267	0.999997079962325	1	2	inorganic cation transmembrane transporter activity	MF	0.136688487565969	MF inorganic cation transmembrane transporter activity	group11141
+GO:0005746	0.00383254957524475	0.999997056002905	1	2	mitochondrial respirasome	CC	0.136688487565969	CC mitochondrial respirasome	group11141
+GO:0071702	0.00387385640915494	0.999994989470067	1	6	organic substance transport	BP	0.137539352328645	BP organic substance transport	group13045
+GO:0046662	0.00389312256452146	0.999995444923573	1	4	regulation of oviposition	BP	0.137603551809678	BP regulation of oviposition	group13045
+GO:0008324	0.00400844705187024	0.999994849246407	1	5	cation transmembrane transporter activity	MF	0.141047230637684	MF cation transmembrane transporter activity	group11141
+GO:0007589	0.00418691902292979	0.999995315525989	1	3	body fluid secretion	BP	0.146672425505478	BP body fluid secretion	group11141
+GO:0043229	0.00425532312377582	0.99999395300994	1	6	intracellular organelle	CC	0.148232333418589	CC intracellular organelle	group11141
+GO:0098655	0.00426906111215676	0.999993740228733	1	7	cation transmembrane transport	BP	0.148232333418589	BP cation transmembrane transport	group11141
+GO:0048513	0.00439325250689821	0.999994197959142	1	4	animal organ development	BP	0.151875509909525	BP animal organ development	group11141
+GO:0010941	0.00452952231067127	0.999993147725907	1	6	regulation of cell death	BP	0.155902597610092	BP regulation of cell death	group11141
+GO:2000377	0.00459234623829644	0.999992755183972	1	7	regulation of reactive oxygen species metabolic process	BP	0.157377708914142	BP regulation of reactive oxygen species metabolic process	group11141
+GO:0022900	0.00481909265671976	0.99999255236191	1	5	electron transport chain	BP	0.164433282771711	BP electron transport chain	group11141
+GO:0010942	0.00484578355272373	0.999992939506178	1	4	positive regulation of cell death	BP	0.164631318804174	BP positive regulation of cell death	group11141
+GO:0007389	0.00491970755870411	0.999991684240724	1	7	pattern specification process	BP	0.166425472007321	BP pattern specification process	group13045
+GO:0006139	0.00498832012157251	0.999991687496079	1	6	nucleobase-containing compound metabolic process	BP	0.168025381189036	BP nucleobase-containing compound metabolic process	group11141
+GO:0046034	0.00503475679910908	0.99999187000785	1	5	ATP metabolic process	BP	0.16886788549182	BP ATP metabolic process	group11141
+GO:0045924	0.00522829070563598	0.999990607000905	1	7	regulation of female receptivity	BP	0.174231352314252	BP regulation of female receptivity	group12810
+GO:0009117	0.00523887725177336	0.999992661747097	1	3	nucleotide metabolic process	BP	0.174231352314252	BP nucleotide metabolic process	group11141
+GO:0045184	0.00542813367243973	0.999989874284422	1	7	establishment of protein localization	BP	0.179767015151974	BP establishment of protein localization	group13045
+GO:0006811	0.00553472633503268	0.999988946846969	1	10	ion transport	BP	0.182530179802207	BP ion transport	group11141
+GO:0009266	0.00583213148346896	0.999988308780698	1	7	response to temperature stimulus	BP	0.19153691813626	BP response to temperature stimulus	group11141
+GO:0022904	0.00603290352970064	0.999988321291613	1	5	respiratory electron transport chain	BP	0.197308488054359	BP respiratory electron transport chain	group11141
+GO:0009966	0.0063851825954587	0.999985691401344	1	8	regulation of signal transduction	BP	0.207966980237213	BP regulation of signal transduction	group12810
+GO:0006163	0.00679899757159666	0.999984544553484	1	6	purine nucleotide metabolic process	BP	0.220533740161831	BP purine nucleotide metabolic process	group11141
+GO:0045333	0.00713967282961007	0.999982954183765	1	6	cellular respiration	BP	0.230634841159781	BP cellular respiration	group11141
+GO:0005740	0.00717882054376185	0.999982275254009	1	7	mitochondrial envelope	CC	0.230952912350738	CC mitochondrial envelope	group11141
+GO:0004129	0.00760278648087766	0.999982595800143	1	4	cytochrome-c oxidase activity	MF	0.243598223749097	MF cytochrome-c oxidase activity	group11141
+GO:0048666	0.0082793222991886	0.999974603573463	1	13	neuron development	BP	0.264200884057508	BP neuron development	group12234
+GO:0007619	0.00844861612710556	0.999973259482056	1	15	courtship behavior	BP	0.268516098039702	BP courtship behavior	group12234
+GO:0016310	0.008623480420825	0.999972634955065	1	12	phosphorylation	BP	0.272972982638324	BP phosphorylation	group11141
+GO:0016020	0.00874447128189317	0.999730995730609	2	232	membrane	CC	0.275695690575528	CC membrane	group13045, group11141
+GO:0005751	0.00879967159765246	0.99997511974252	1	5	mitochondrial respiratory chain complex IV	CC	0.276330723237835	CC mitochondrial respiratory chain complex IV	group11141
+GO:0050877	0.00907530467130916	0.999969293944553	1	14	nervous system process	BP	0.283855362774836	BP nervous system process	group13032
+GO:0006119	0.00947156260744736	0.999969968300619	1	6	oxidative phosphorylation	BP	0.295078484078657	BP oxidative phosphorylation	group11141
+GO:0007626	0.00972713225465945	0.999964534444766	1	15	locomotory behavior	BP	0.301847466264668	BP locomotory behavior	group12234
+GO:0034220	0.00998545238359842	0.999962811585768	1	14	ion transmembrane transport	BP	0.308648375245187	BP ion transmembrane transport	group11141
+GO:0006417	0.0102164956637954	0.999961066863157	1	14	regulation of translation	BP	0.314556323523576	BP regulation of translation	group12234
+GO:0042332	0.0104181842132796	0.999958821588429	1	18	gravitaxis	BP	0.319518007661751	BP gravitaxis	group12234
+GO:0031966	0.010606744109445	0.999958276032223	1	13	mitochondrial membrane	CC	0.324040143684671	CC mitochondrial membrane	group11141
+GO:0022008	0.0106671232144399	0.999957331516752	1	15	neurogenesis	BP	0.324626506471874	BP neurogenesis	group12234
+GO:0061355	0.011912014939354	0.999949287065952	1	9	Wnt protein secretion	BP	0.361117314430724	BP Wnt protein secretion	group13045
+GO:0006812	0.0127535417219735	0.999937713269959	1	21	cation transport	BP	0.385147187174693	BP cation transport	group11141
+GO:0005179	0.0129369761680956	0.999941087778447	1	8	hormone activity	MF	0.386689683518509	MF hormone activity	group12810
+GO:0009060	0.0129471406935716	0.999940994895519	1	8	aerobic respiration	BP	0.386689683518509	BP aerobic respiration	group11141
+GO:0006123	0.0129517985852431	0.999942151982605	1	7	mitochondrial electron transport, cytochrome c to oxygen	BP	0.386689683518509	BP mitochondrial electron transport, cytochrome c to oxygen	group11141
+GO:0040011	0.0133728348950054	0.999931203062927	1	23	locomotion	BP	0.397753526952576	BP locomotion	group12234
+GO:0034976	0.0151943197734032	0.999910949745299	1	24	response to endoplasmic reticulum stress	BP	0.450231685917159	BP response to endoplasmic reticulum stress	group12234
+GO:0017148	0.0164839042420517	0.999895135419755	1	24	negative regulation of translation	BP	0.486614731220417	BP negative regulation of translation	group12234
+GO:0016322	0.0166184106604588	0.999892617185527	1	29	neuron remodeling	BP	0.488754898603495	BP neuron remodeling	group12234
+GO:0048018	0.0167373185004017	0.999892542094038	1	21	receptor ligand activity	MF	0.49042209821623	MF receptor ligand activity	group12810
+GO:0015031	0.0186045881196656	0.999865854229223	1	26	protein transport	BP	0.543116161330385	BP protein transport	group13045
+GO:0007552	0.0191739631871419	0.999857483629288	1	26	metamorphosis	BP	0.557672242955912	BP metamorphosis	group12234
+GO:0003730	0.0200469611128976	0.999843328561018	1	30	mRNA 3'-UTR binding	MF	0.580919659896541	MF mRNA 3'-UTR binding	group12234
+GO:0003824	0.0201376365833736	0.999842503041854	1	27	catalytic activity	MF	0.581409712637915	MF catalytic activity	group11141
+GO:0009953	0.0206211586274734	0.999834590272065	1	28	dorsal/ventral pattern formation	BP	0.593196979203449	BP dorsal/ventral pattern formation	group13045
+GO:0005102	0.0212347722503123	0.99982412490721	1	30	signaling receptor binding	MF	0.608627181370771	MF signaling receptor binding	group12810
+GO:0009306	0.0255352965909378	0.999744670177448	1	32	protein secretion	BP	0.729236259890478	BP protein secretion	group13045
+GO:0008104	0.0263215454603086	0.999726112240469	1	45	protein localization	BP	0.748976250246037	BP protein localization	group13045
+GO:0030182	0.0276225651425787	0.99969967092463	1	37	neuron differentiation	BP	0.783169275013688	BP neuron differentiation	group12234
+GO:0048193	0.0279567029616694	0.999695448949463	1	27	Golgi vesicle transport	BP	0.789801909476266	BP Golgi vesicle transport	group13045
+GO:0009055	0.0286023786054736	0.999682647824121	1	24	electron transfer activity	MF	0.805156957744082	MF electron transfer activity	group11141
+GO:1902600	0.0290090293799333	0.999671943935477	1	27	proton transmembrane transport	BP	0.81369811235813	BP proton transmembrane transport	group11141
+GO:0008344	0.0306900992245671	0.999626974808052	1	45	adult locomotory behavior	BP	0.85779915634056	BP adult locomotory behavior	group12234
+GO:0010629	0.0335266443636179	0.999552960269965	1	52	negative regulation of gene expression	BP	0.933605378717204	BP negative regulation of gene expression	group12234
+GO:0032991	0.033639168682528	0.999549769047399	1	53	protein-containing complex	CC	0.933605378717204	CC protein-containing complex	group11141
+GO:0030154	0.0352299445905343	0.999504898896125	1	59	cell differentiation	BP	0.974324292149442	BP cell differentiation	group12234
+GO:0022857	0.0362138997004333	0.999476077379597	1	63	transmembrane transporter activity	MF	0.998034816219634	MF transmembrane transporter activity	group11141
+GO:0007399	0.0389009465399903	0.99939432823535	1	66	nervous system development	BP	0.9999999999	BP nervous system development	group12234
+GO:0005743	0.0404175911010385	0.999350717679611	1	44	mitochondrial inner membrane	CC	0.9999999999	CC mitochondrial inner membrane	group11141
+GO:0010468	0.0453655594952136	0.999172871380156	1	73	regulation of gene expression	BP	0.9999999999	BP regulation of gene expression	group12234
+GO:0016491	0.0483683914400188	0.999062163185062	1	57	oxidoreductase activity	MF	0.9999999999	MF oxidoreductase activity	group11141
